@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Added basic retry logic for network requests
 - Resolved deprecation warnings
+
+## 2026-04-13
+- Reorganised test fixtures
+- Documented config options
+- Addressed feedback from self code review
